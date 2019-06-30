@@ -1,0 +1,20 @@
+{
+	"apatite": {
+		"type": "cluster",
+		"ore": [
+			{
+				"block": "forestry:resources",
+				"weight": 1,
+				"meta": 0
+			}
+		],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 200,
+		"density": 30,
+		"min_y": 40,
+		"max_y": 150,
+		"vertical_size": 2,
+		"horizontal_size:": 30
+	}
+}

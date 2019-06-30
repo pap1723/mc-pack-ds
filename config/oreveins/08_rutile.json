@@ -1,0 +1,24 @@
+{
+	"rutile": {
+		"type": "cluster",
+		"ore": [
+			{
+			  "block": "libvulpes:ore0",
+				"weight": 90,
+				"meta": 8
+			},
+			{
+			  "block": "minecraft:iron_ore",
+			  "weight": 10
+			}
+		  ],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 300,
+		"density": 40,
+		"min_y": 5,
+		"max_y": 20,
+		"vertical_size": 15,
+		"horizontal_size:": 15
+	}
+}

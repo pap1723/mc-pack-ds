@@ -1,0 +1,17 @@
+{
+  "iron_ore_example": {
+    "type": "cluster",
+    "ore": "ore:oreIron",
+    "stone": "minecraft:stone",
+    "indicator": {
+      "blocks": {
+        "block": "minecraft:red_flower",
+        "meta": 3
+      },
+      "rarity": 300,
+      "max_depth": 23
+    },
+    "rarity": 9999999999,
+    "count": 0
+  }
+}

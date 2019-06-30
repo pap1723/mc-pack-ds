@@ -1,0 +1,25 @@
+{
+	"uranium": {
+		"type": "cluster",
+		"ore": [
+			{
+			  "block": "nuclearcraft:ore",
+				"weight": 80,
+				"meta": 4
+			},
+			{
+			  "block": "thermalfoundation:ore",
+			  "weight": 20,
+			  "meta": 3
+			}
+		  ],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 300,
+		"density": 40,
+		"min_y": 5,
+		"max_y": 25,
+		"vertical_size": 20,
+		"horizontal_size:": 20
+	}
+}

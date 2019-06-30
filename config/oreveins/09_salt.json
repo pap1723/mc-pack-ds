@@ -1,0 +1,18 @@
+{
+	"salt": {
+		"type": "cluster",
+		"ore": [
+			{
+				"block": "mekanism:saltblock"
+			}
+		],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 500,
+		"density":100,
+		"min_y": 40,
+		"max_y": 150,
+		"vertical_size": 40,
+		"horizontal_size:": 60
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"tin": {
+		"type": "cluster",
+		"ore": [
+			{
+				"block": "thermalfoundation:ore",
+				"weight": 1,
+				"meta": 1
+			}
+		],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 100,
+		"density": 60,
+		"min_y": 30,
+		"max_y": 50,
+		"vertical_size": 20,
+		"horizontal_size:": 20
+	}
+}

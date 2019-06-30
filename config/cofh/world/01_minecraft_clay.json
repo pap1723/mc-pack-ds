@@ -1,0 +1,31 @@
+{
+	"priority": 100000000000,
+	"populate": {
+		"surface_clay": {
+			"enabled": true,
+			"distribution": "surface",
+			"follow-terrain": "true",
+			"generator": {
+				"type": "plate",
+				"block": "minecraft:clay",
+				"material": "minecraft:grass",
+				"radius": 15,
+				"height": 1,
+				"shape": "CIRCLE"
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"zinc": {
+		"type": "cluster",
+		"ore": [
+			{
+			  "block": "railcraft:ore_metal",
+				"weight": 80,
+				"meta": 5
+			},
+			{
+			  "block": "thermalfoundation:ore",
+			  "weight": 10,
+			  "meta": 0
+			},
+			{
+				"block": "minecraft:iron_ore",
+				"weight": 10
+			  }
+		  ],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 150,
+		"density": 50,
+		"min_y": 10,
+		"max_y": 45,
+		"vertical_size": 15,
+		"horizontal_size:": 15
+	}
+}

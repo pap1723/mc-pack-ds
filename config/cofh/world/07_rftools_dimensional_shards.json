@@ -1,0 +1,71 @@
+{
+	"dependencies": "rftools",
+	"populate": {
+		"dimensional_shard_overworld": {
+			"distribution": "uniform",
+			"generator": {
+				"block": { 					 					
+					"name": "rftools:dimensional_shard_ore", 					 					
+					"metadata": 0				 				
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 20
+			},
+			"cluster-count": 1,
+			"chunk-chance": 300,
+			"min-height": 17,
+			"max-height": 32,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	},
+	"dimensional_shard_nether": {
+		"distribution": "uniform",
+		"generator": {
+			"block": { 					 					
+				"name": "rftools:dimensional_shard_ore", 					 					
+				"metadata": 1				 				
+			},
+			"material": "minecraft:netherrack",
+			"cluster-size": 5
+		},
+		"cluster-count": 1,
+		"chunk-chance": 5,
+		"retrogen": "false",
+		"biome": "all",
+		"dimension": {
+			"restriction": "whitelist",
+			"value": [
+				-1
+			]
+		}
+	},
+	"dimensional_shard_end": {
+		"distribution": "uniform",
+		"generator": {
+			"block": { 					 					
+				"name": "rftools:dimensional_shard_ore", 					 					
+				"metadata": 1				 				
+			},
+			"material": "minecraft:end_stone",
+			"cluster-size": 5
+		},
+		"cluster-count": 1,
+		"chunk-chance": 5,
+		"retrogen": "false",
+		"biome": "all",
+		"dimension": {
+			"restriction": "whitelist",
+			"value": [
+				1
+			]
+		}
+	}
+}

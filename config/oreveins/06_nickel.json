@@ -1,0 +1,24 @@
+{
+	"nickel": {
+		"type": "cluster",
+		"ore": [
+			{
+			  "block": "thermalfoundation:ore",
+				"weight": 65,
+				"meta": 5
+			},
+			{
+			  "block": "minecraft:iron_ore",
+			  "weight": 35
+			}
+		  ],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 200,
+		"density": 40,
+		"min_y": 15,
+		"max_y": 40,
+		"vertical_size": 20,
+		"horizontal_size:": 20
+	}
+}

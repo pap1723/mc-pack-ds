@@ -1,0 +1,20 @@
+{
+	"aluminum": {
+		"type": "cluster",
+		"ore": [
+			{
+				"block": "thermalfoundation:ore",
+				"weight": 1,
+				"meta": 4
+			}
+		],
+		"stone": "minecraft:stone",
+		"count": 1,
+		"rarity": 100,
+		"density": 60,
+		"min_y": 40,
+		"max_y": 150,
+		"vertical_size": 20,
+		"horizontal_size:": 20
+	}
+}

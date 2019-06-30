@@ -1,0 +1,185 @@
+Salt
+	dustSalt
+
+Platinum
+	platePlatinum
+	gearPlatinum
+	dustPlatinum
+	nuggetPlatinum
+	orePlatinum
+	ingotPlatinum
+	blockPlatinum
+
+Tin
+	chunkTin
+	plateTin
+	gearTin
+	dustTin
+	nuggetTin
+	oreTin
+	ingotTin
+	blockTin
+
+Nickel
+	chunkNickel
+	plateNickel
+	gearNickel
+	dustNickel
+	nuggetNickel
+	oreNickel
+	ingotNickel
+	blockNickel
+
+Invar
+	plateInvar
+	gearInvar
+	dustInvar
+	nuggetInvar
+	ingotInvar
+	blockInvar
+
+Silver
+	chunkSilver
+	plateSilver
+	gearSilver
+	dustSilver
+	nuggetSilver
+	oreSilver
+	ingotSilver
+	blockSilver
+
+Steel
+	chunkSteel
+	plateSteel
+	gearSteel
+	dustSteel
+	nuggetSteel
+	ingotSteel
+	blockSteel
+
+Osmium
+	chunkOsmium
+	dustOsmium
+	nuggetOsmium
+	oreOsmium
+	ingotOsmium
+	blockOsmium
+
+Zinc
+	chunkZinc
+	plateZinc
+	dustZinc
+	nuggetZinc
+	oreZinc
+	ingotZinc
+	blockZinc
+
+Stone
+
+Electrum
+	plateElectrum
+	gearElectrum
+	dustElectrum
+	nuggetElectrum
+	ingotElectrum
+	blockElectrum
+
+Iron
+	chunkIron
+	plateIron
+	gearIron
+	dustIron
+	nuggetIron
+	oreIron
+	ingotIron
+	blockIron
+
+Obsidian
+	dustObsidian
+
+Aluminum
+	chunkAluminum
+	plateAluminum
+	gearAluminum
+	dustAluminum
+	nuggetAluminum
+	oreAluminum
+	ingotAluminum
+	blockAluminum
+
+Bronze
+	plateBronze
+	gearBronze
+	dustBronze
+	nuggetBronze
+	ingotBronze
+	blockBronze
+
+Constantan
+	plateConstantan
+	gearConstantan
+	dustConstantan
+	nuggetConstantan
+	ingotConstantan
+	blockConstantan
+
+Iridium
+	plateIridium
+	gearIridium
+	dustIridium
+	nuggetIridium
+	oreIridium
+	ingotIridium
+	blockIridium
+
+Brass
+	plateBrass
+	gearBrass
+	nuggetBrass
+	ingotBrass
+	blockBrass
+
+Uranium
+	plateUranium
+	dustUranium
+	nuggetUranium
+	oreUranium
+	ingotUranium
+	blockUranium
+
+Coal
+	dustCoal
+
+Sulfur
+	dustSulfur
+
+Lead
+	chunkLead
+	plateLead
+	gearLead
+	dustLead
+	nuggetLead
+	oreLead
+	ingotLead
+	blockLead
+
+Gold
+	chunkGold
+	plateGold
+	gearGold
+	dustGold
+	nuggetGold
+	oreGold
+	ingotGold
+	blockGold
+
+Copper
+	chunkCopper
+	plateCopper
+	gearCopper
+	dustCopper
+	nuggetCopper
+	oreCopper
+	ingotCopper
+	blockCopper
+
