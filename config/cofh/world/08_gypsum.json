@@ -8,9 +8,9 @@
 					"name": "jurassicraft:gypsum_stone"
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 33
+				"cluster-size": 22
 			},
-			"cluster-count": 10,
+			"cluster-count": 1,
 			"min-height": 0,
 			"max-height": 150,
 			"retrogen": false,
